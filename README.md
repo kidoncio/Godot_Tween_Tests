@@ -3,7 +3,7 @@
 ![Godot Tween](https://i.redd.it/ng3aq55fqxr31.png "Godot Tween")
 
 
-#### Para efetuar os testes de animação de Tween basta abrir o projeto usando Godot Engine e alterar os parâmetros "Transition Type" e "Easy Type" no Object.
+#### Para efetuar os testes de animação de Tween basta abrir o projeto usando Godot Engine e alterar os parâmetros "Transition Type" e "Ease Type" no Object.
 
 
 O ENUM dos Transition Type e Ease Type podem ser encontrados na [documentação do Godot 3.1](https://docs.godotengine.org/en/3.1/classes/class_tween.html "documentação do Godot 3.1").
