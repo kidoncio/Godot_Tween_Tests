@@ -6,3 +6,5 @@
 
 [node name="Object" parent="." instance=ExtResource( 1 )]
 position = Vector2( 444.842, 269.354 )
+TRANSITION_TYPE = 7
+EASE_TYPE = 2
